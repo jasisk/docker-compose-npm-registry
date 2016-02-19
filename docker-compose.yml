@@ -5,4 +5,4 @@ kappa:
   ports:
     - "8000:8000"
   links:
-    - registry:couchapp
+    - registry
